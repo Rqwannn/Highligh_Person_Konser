@@ -1,0 +1,9 @@
+.env
+env
+
+core/Applio_Train/client_secrets.json
+core/Applio_Train/mycreds.txt
+
+assets/AdaFace
+
+__pycache__/
